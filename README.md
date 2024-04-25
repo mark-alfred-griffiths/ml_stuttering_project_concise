@@ -1,3 +1,3 @@
-Machine learning work to label transcribed structures. Written for a project under Prof. Pete Howell (UCL). Mark Alfred Griffiths - 2023.
+Machine learning work to label transcribed structures. Written for a project under Prof. Pete Howell (UCL). Mark A. Griffiths - 2024.
 
-labelled_stuttering_detection_ml_0_0_0_pw_fw
+labelled_stuttering_detection
